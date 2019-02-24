@@ -1,0 +1,2 @@
+1. Jdk installed in pc
+2. Mysql server installed in pc
